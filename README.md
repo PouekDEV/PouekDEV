@@ -1,5 +1,5 @@
 ### Hi there I'm a 15y/o programmer
-🧑‍💻 I study computer science at Technical School in Poland 🇵🇱 
+I study computer science at Technical School in Poland 🇵🇱 
 
 # Stats:
 
