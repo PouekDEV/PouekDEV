@@ -1,5 +1,5 @@
-# Hi! I code stuff
+I study Computer Science at Gdynia Maritime University
 
-I study computer science at Technical School in Poland
+[![WakaTime](https://wakatime.com/badge/user/8c952089-146a-44a4-bef9-b15de5130b66.svg)](https://wakatime.com/@8c952089-146a-44a4-bef9-b15de5130b66)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=PouekDEV&show_icons=true&theme=dark)](https://github.com/PouekDEV)
